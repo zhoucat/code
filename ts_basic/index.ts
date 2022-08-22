@@ -1,0 +1,1 @@
+const arrTuple :[name:string, age:number] = ['zhou', 18]
