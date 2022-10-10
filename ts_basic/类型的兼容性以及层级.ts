@@ -1,4 +1,3 @@
-import { Nominal } from './类型的兼容性以及层级';
 // 判断原理
 // 1.结构化类型系统：基于类型的结构判断，鸭子类型，ts的判断方法
 // typeClass2包含typeClass1
